@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/crimeFragment">
+
+    <fragment
+        android:id="@+id/crimeFragment"
+        android:name="non.mametich.criminal_intent.ui.CrimeFragment"
+        android:label="fragment_crime"
+        tools:layout="@layout/fragment_crime" />
+</navigation>
