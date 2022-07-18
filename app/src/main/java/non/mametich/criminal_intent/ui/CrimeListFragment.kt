@@ -9,7 +9,6 @@ import androidx.fragment.app.viewModels
 import androidx.recyclerview.widget.LinearLayoutManager
 import non.mametich.criminal_intent.CrimeAdapter
 import non.mametich.criminal_intent.CrimeListViewModel
-import non.mametich.criminal_intent.R
 import non.mametich.criminal_intent.databinding.FragmentCrimeListBinding
 
 
